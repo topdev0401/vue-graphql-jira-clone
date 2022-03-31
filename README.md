@@ -25,11 +25,3 @@ I belive that this project will be a great example for Vuejs developers in the f
 ## Contributing
 
 I think the state of the project is good as it is right now feature wise and i will only be fixing bugs if they come up so it you want to contribute in doing so you are very welcome.
-
-## Credits
-
-Insprited by <a href="https://github.com/oldboyxx/jira_clone" target="_blank">oldboyxx/jira_clone</a>
-
-## License
-
-[MIT](https://opensource.org/licenses/MIT)
